@@ -12,6 +12,11 @@ Ce projet répond à une question simple mais stratégique:
 Comment passer d'un ensemble de fichiers CSV hétérogènes à un outil d'analyse fiable pour piloter le chiffre d'affaires, les catégories produits et la performance client?
 
 
+## Live Demo
+- Application déployée: https://shopflow-gs3auuippzu4qvym7dpeco.streamlit.app
+- Accès: public (aucune authentification requise).
+
+
 ## 2) Pourquoi ce projet est pertinent
 Dans un contexte réel, les équipes métier ont besoin de:
 - KPI compréhensibles,
