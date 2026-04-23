@@ -1,0 +1,8 @@
+pandas
+matplotlib
+faker
+streamlit
+fastapi
+uvicorn
+requests
+openpyxl

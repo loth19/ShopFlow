@@ -1,0 +1,51 @@
+id,categorie,name,prix_eur,stock
+1,Electronics,Wireless Headphones,285.0540539967738,453
+2,Electronics,Smart Watch,482.12063346060444,197
+3,Clothing,Hoodie,62.68796701434603,205
+4,Books,Marketing Strategy,239.32267896318078,53
+5,Beauty,Body Lotion,353.1917821175883,83
+6,Beauty,Perfume,93.29312167520045,367
+7,Sports,Running Shoes,352.8853385525521,319
+8,Home,Kitchen Organizer,13.889142804544615,438
+9,Electronics,Smart Watch,24.511722885855207,154
+10,Clothing,Basic T-Shirt,366.4357610038152,236
+11,Sports,Fitness Band,246.12852390751192,451
+12,Electronics,Wireless Headphones,165.66484842265314,168
+13,Electronics,Wireless Headphones,39.35821694238034,303
+14,Electronics,Wireless Headphones,351.12113289918625,281
+15,Beauty,Perfume,323.47560027016146,134
+16,Sports,Fitness Band,358.7164867110049,455
+17,Clothing,Winter Jacket,74.8888311978103,473
+18,Home,Table Lamp,273.9960313665904,20
+19,Books,Business Essentials,178.4976038561718,238
+20,Electronics,Smart Watch,109.81101918190427,424
+21,Clothing,Basic T-Shirt,8.88179971311034,214
+22,Clothing,Basic T-Shirt,437.6454096276921,447
+23,Books,Python for Beginners,184.53820302623998,53
+24,Sports,Yoga Mat,482.62507525398576,187
+25,Clothing,Running Shorts,486.2085736084237,266
+26,Clothing,Running Shorts,298.09017821494433,303
+27,Home,Kitchen Organizer,305.2379067002518,340
+28,Clothing,Winter Jacket,54.78473585752577,106
+29,Electronics,Laptop Stand,55.7112754854748,439
+30,Sports,Fitness Band,216.48403365664026,434
+31,Beauty,Perfume,5.497965962362922,257
+32,Sports,Running Shoes,153.49324859591343,430
+33,Sports,Dumbbells Set,351.5153607951098,12
+34,Home,Coffee Mug Set,181.8000575667492,394
+35,Beauty,Lip Balm,81.25617125336775,277
+36,Clothing,Running Shorts,195.57268522683611,289
+37,Books,Story Collection,495.4406372211818,156
+38,Electronics,Wireless Headphones,199.65796634995624,57
+39,Electronics,Wireless Headphones,441.26489682024265,231
+40,Electronics,Bluetooth Speaker,361.8387371621079,57
+41,Electronics,Smart Watch,202.80848897581438,230
+42,Home,Kitchen Organizer,309.8874455468551,349
+43,Home,Coffee Mug Set,285.5983921353942,356
+44,Clothing,Hoodie,173.68849184916925,422
+45,Beauty,Face Cream,85.3200016612339,225
+46,Beauty,Perfume,240.03564452033388,1
+47,Sports,Water Bottle,369.37505835589576,200
+48,Home,Storage Box,444.27606203334744,182
+49,Electronics,Phone Charger,175.9044814168781,103
+50,Home,Coffee Mug Set,387.18881167046305,6

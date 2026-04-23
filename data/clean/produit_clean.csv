@@ -1,0 +1,51 @@
+id,categorie,name,prix_eur,stock,prix_usd
+1,Clothing,Basic T-Shirt,379.12,229,409.45
+2,Home,Storage Box,345.57,134,373.22
+3,Electronics,Bluetooth Speaker,373.42,149,403.29
+4,Sports,Fitness Band,291.71,336,315.05
+5,Sports,Water Bottle,47.92,412,51.75
+6,Beauty,Body Lotion,79.29,421,85.63
+7,Electronics,Phone Charger,409.13,277,441.86
+8,Beauty,Shampoo,95.38,482,103.01
+9,Sports,Dumbbells Set,273.17,81,295.02
+10,Books,Data Analysis Handbook,64.96,14,70.16
+11,Clothing,Slim Jeans,467.87,160,505.3
+12,Books,Data Analysis Handbook,298.45,122,322.33
+13,Books,Marketing Strategy,123.77,4,133.67
+14,Sports,Running Shoes,384.28,180,415.02
+15,Beauty,Shampoo,427.27,185,461.45
+16,Electronics,Smart Watch,445.11,235,480.72
+17,Sports,Fitness Band,290.58,309,313.83
+18,Clothing,Basic T-Shirt,361.65,164,390.58
+19,Sports,Dumbbells Set,184.09,427,198.82
+20,Sports,Dumbbells Set,88.5,329,95.58
+21,Clothing,Running Shorts,216.89,174,234.24
+22,Sports,Fitness Band,107.76,357,116.38
+23,Sports,Dumbbells Set,298.36,148,322.23
+24,Clothing,Basic T-Shirt,244.14,329,263.67
+25,Books,Business Essentials,224.26,161,242.2
+26,Beauty,Body Lotion,93.4,298,100.87
+27,Clothing,Winter Jacket,29.49,393,31.85
+28,Sports,Dumbbells Set,338.81,256,365.91
+29,Electronics,Wireless Headphones,52.9,72,57.13
+30,Home,Kitchen Organizer,203.14,1,219.39
+31,Sports,Water Bottle,28.3,48,30.56
+32,Beauty,Shampoo,248.01,25,267.85
+33,Electronics,Bluetooth Speaker,339.97,317,367.17
+34,Home,Coffee Mug Set,131.45,247,141.97
+35,Home,Storage Box,361.45,199,390.37
+36,Sports,Running Shoes,199.17,467,215.1
+37,Electronics,Laptop Stand,87.27,302,94.25
+38,Home,Coffee Mug Set,65.39,48,70.62
+39,Home,Table Lamp,69.33,419,74.88
+40,Home,Desk Mat,433.38,157,468.05
+41,Books,Data Analysis Handbook,255.28,28,275.7
+42,Electronics,Smart Watch,166.7,9,180.04
+43,Books,Data Analysis Handbook,306.03,202,330.51
+44,Sports,Dumbbells Set,409.55,314,442.31
+45,Books,Marketing Strategy,20.24,341,21.86
+46,Sports,Dumbbells Set,142.53,356,153.93
+47,Sports,Running Shoes,286.64,422,309.57
+48,Beauty,Face Cream,146.12,419,157.81
+49,Beauty,Face Cream,477.32,367,515.51
+50,Books,Data Analysis Handbook,338.79,394,365.89

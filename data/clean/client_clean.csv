@@ -1,0 +1,189 @@
+id,nom,email,city,pays,date_inscription,categorie_client
+1,Marc Lacroix-Seguin,marc.seguin5862@shopflow.com,La Plata,Argentine,2025-08-13,nouveau
+2,Roger Perrot,roger.perrot9726@shopflow.com,Los Angeles,Etats-Unis,2026-02-27,fidele
+3,Simone Marin du Clément,simone.clement8102@shopflow.com,Kyoto,Japon,2025-08-19,fidele
+4,Léon Imbert,leon.imbert2512@shopflow.com,Buenos Aires,Argentine,2025-08-13,fidele
+5,Bernard Lopez-Perrot,bernard.perrot3663@shopflow.com,Tanger,Maroc,2025-06-13,fidele
+6,Paulette Becker,paulette.becker196@shopflow.com,Assouan,Egypte,2026-03-29,nouveau
+7,Alexandre de Petitjean,alexandre.petitjean6277@shopflow.com,Kisumu,Kenya,2025-09-24,fidele
+8,Constance Mathieu,constance.mathieu4246@shopflow.com,Yogyakarta,Indonesie,2026-04-03,nouveau
+9,Laetitia de Hubert,laetitia.hubert638@shopflow.com,Kyoto,Japon,2025-06-26,nouveau
+10,Inès Ruiz,ines.ruiz1209@,Christchurch,Nouvelle-Zelande,2025-12-29,fidele
+11,Roger-Hugues Michaud,roger.michaud3077@shopflow.com,Bloemfontein,Afrique du Sud,2025-11-17,fidele
+12,Manon Le Fournier,manon.fournier3361@shopflow.com,Marseille,France,2025-05-05,nouveau
+13,Patrick-Laurent Cousin,patrick.cousin5465@shopflow.com,Salvador,Bresil,2025-09-20,fidele
+14,Éric Vasseur de la Clerc,eric.clerc4521@shopflow.com,Wellington,Nouvelle-Zelande,2025-08-15,fidele
+15,Claire-Andrée Paris,claire.paris2320@shopflow.com,Seoul,Coree du Sud,2025-10-29,nouveau
+16,Louise du Lemoine,louise.lemoine4635@shopflow.com,Nairobi,Kenya,2025-08-14,fidele
+17,Guillaume Toussaint,guillaume.toussaint5348@shopflow.com,Mombasa,Kenya,2026-01-15,fidele
+18,Jeannine Cousin de Pascal,jeannine.pascal3622@shopflow.com,Delhi,Inde,2025-07-25,fidele
+19,Noémi Barbe,noemi.barbe1553@shopflow.com,Bordeaux,France,2026-01-29,fidele
+20,Laurent Maillot,laurent.maillot4683@@shopflow.com,inconnue,Maroc,2025-12-04,fidele
+21,Timothée de la Gosselin,timothee.gosselin1325@shopflow.com,Brasilia,Bresil,2025-12-09,nouveau
+22,Élodie Wagner,elodie.wagner9359@shopflow.com,Bangalore,Inde,2026-03-09,nouveau
+23,Margot de Auger,margot.auger276@shopflow.com,Adelaide,Australie,2026-01-15,nouveau
+24,Noël Rey,noel.rey3554@shopflow.com,Nakuru,Kenya,2025-08-30,fidele
+25,Chantal Baudry,chantal.baudry3696@shopflow.com,Ankara,Turquie,2026-02-14,nouveau
+26,Odette-Frédérique Collin,odette.collin9565@shopflow.com,Tokyo,Japon,2026-04-05,nouveau
+27,Françoise Bigot,francoise.bigot8455@shopflow.com,Assouan,Egypte,2025-05-11,nouveau
+28,Alfred Hardy du Bertin,alfred.bertin2187@shopflow.com,Rabat,Maroc,2026-03-18,nouveau
+29,Adèle Ramos,adele.ramos6563@shopflow.com,Le Caire,Egypte,2025-08-17,fidele
+30,Bernard Le Weiss,bernard.weiss8979@@shopflow.com,Adelaide,Australie,2025-09-14,fidele
+31,Henri-Patrick Cohen,henri.cohen6266@shopflow.com,Shanghai,Chine,2026-04-20,fidele
+32,Patrick Lebon,patrick.lebon6993@shopflow.com,Hamilton,Nouvelle-Zelande,2025-07-11,nouveau
+34,Colette Didier-Fabre,colette.fabre7131@shopflow.com,Rabat,Maroc,2025-06-19,fidele
+35,Éric Martineau,eric.martineau3143@shopflow.com,Adelaide,Australie,2025-06-29,nouveau
+36,Honoré Devaux Le Vallée,honore.vallee2857@shopflow.com,Brasilia,Bresil,2026-04-03,fidele
+37,Henri Blanchard,henri.blanchard1900@shopflow.com,Marrakech,Maroc,2025-09-28,nouveau
+38,Sophie Marchal,sophie.marchal1536@shopflow.com,Daejeon,Coree du Sud,2025-10-09,fidele
+39,Alexandria-Laurence Diaz,alexandria.diaz5592@shopflow.com,Francfort,Allemagne,2026-01-21,nouveau
+40,Théodore Descamps,theodore.descamps6757@,inconnue,Inde,2025-12-18,nouveau
+41,Renée Carlier,renee.carlier4953@shopflow.com,Johannesburg,Afrique du Sud,2025-11-15,nouveau
+42,Élise Chartier,elise.chartier6940@shopflow.com,Kano,Nigeria,2025-11-01,nouveau
+43,Jean Pages,jean.pages3972@shopflow.com,Shanghai,Chine,2025-06-13,fidele
+44,Agnès du Lefort,agnes.lefort5161@shopflow.com,Yogyakarta,Indonesie,2025-10-20,nouveau
+45,Yves Buisson,yves.buisson5911@shopflow.com,Sapporo,Japon,2025-10-04,fidele
+46,Christophe Clément,christophe.clement1181@shopflow.com,Yogyakarta,Indonesie,2026-03-10,fidele
+47,Suzanne Guilbert de Techer,suzanne.techer3928@shopflow.com,Port Harcourt,Nigeria,2025-05-10,nouveau
+48,Margot Hamon,margot.hamon7527@shopflow.com,Delhi,Inde,2026-01-13,nouveau
+49,Marguerite Gautier,marguerite.gautier7936@shopflow.com,Yogyakarta,Indonesie,2025-08-21,nouveau
+50,Margaret du Bernard,@shopflow.com,Auckland,Nouvelle-Zelande,2025-08-25,nouveau
+51,Théodore Ruiz,theodore.ruiz9384@shopflow.com,Sao Paulo,Bresil,2026-04-16,nouveau
+52,Antoine Hervé-Lamy,antoine.lamy5274@shopflow.com,Antalya,Turquie,2025-04-25,nouveau
+53,Éléonore Leclercq Le Lebon,eleonore.lebon5682@shopflow.com,Louxor,Egypte,2025-04-30,fidele
+54,Margot Martins,margot.martins6770@shopflow.com,Bordeaux,France,2025-08-06,nouveau
+55,Isabelle Adam,isabelle.adam3738@shopflow.com,Monterrey,Mexique,2025-08-16,fidele
+56,Martin Renard,martin.renard6457@shopflow.com,Toulouse,France,2026-01-26,fidele
+57,Paulette Blin,paulette.blin2308@shopflow.com,Antalya,Turquie,2026-03-31,nouveau
+58,Anouk-Christelle Marchal,anouk.marchal1711@shopflow.com,Melbourne,Australie,2026-04-22,nouveau
+59,Alexandria Lacombe de la Royer,alexandria.royer7717@shopflow.com,La Plata,Argentine,2026-01-19,nouveau
+60,Anastasie Tanguy,@shopflow.com,inconnue,Turquie,2025-09-23,fidele
+61,Pénélope Lévy-Duval,penelope.duval5230@shopflow.com,Brasilia,Bresil,2025-08-31,nouveau
+62,Renée Gérard Le Teixeira,renee.teixeira7608@shopflow.com,Port Harcourt,Nigeria,2025-08-15,fidele
+63,Antoinette Gimenez,antoinette.gimenez4029@shopflow.com,Buenos Aires,Argentine,2025-08-01,nouveau
+64,Aimée du Coste,aimee.coste6976@shopflow.com,Brasilia,Bresil,2025-10-08,nouveau
+65,Noémi Tanguy,noemi.tanguy9423@shopflow.com,Salvador,Bresil,2025-07-18,fidele
+67,Raymond Bailly,raymond.bailly7492@shopflow.com,Abuja,Nigeria,2026-01-29,fidele
+68,Raymond Rousset,raymond.rousset6087@shopflow.com,Kyoto,Japon,2026-02-03,nouveau
+69,Théophile Barthelemy,theophile.barthelemy4777@shopflow.com,Nagoya,Japon,2025-10-04,fidele
+70,Michel Godard,@shopflow.com,Daejeon,Coree du Sud,2025-05-15,nouveau
+71,Claudine Camus,claudine.camus5307@shopflow.com,Los Angeles,Etats-Unis,2025-07-07,nouveau
+72,Hortense Le Ruiz,hortense.ruiz9310@shopflow.com,Johannesburg,Afrique du Sud,2026-03-25,nouveau
+73,Honoré Le Gall,honore.gall4675@shopflow.com,Hamilton,Nouvelle-Zelande,2026-02-20,fidele
+74,Pénélope Fischer de Roche,penelope.roche8146@shopflow.com,Surabaya,Indonesie,2026-01-28,fidele
+75,Capucine Chevallier,capucine.chevallier8194@shopflow.com,Houston,Etats-Unis,2026-01-20,fidele
+76,Sylvie Lenoir,sylvie.lenoir6404@shopflow.com,Pekin,Chine,2025-09-13,nouveau
+77,Suzanne Raymond,suzanne.raymond8274@shopflow.com,Daejeon,Coree du Sud,2025-05-15,nouveau
+78,Laurence-Élisabeth Marie,laurence.marie8987@shopflow.com,Istanbul,Turquie,2025-05-30,fidele
+79,Antoine Lacroix,antoine.lacroix5279@shopflow.com,Sydney,Australie,2026-01-08,fidele
+81,Josette Vincent,josette.vincent5033@shopflow.com,Canton,Chine,2025-12-07,nouveau
+82,Alexandre Lecomte,alexandre.lecomte7448@shopflow.com,Shanghai,Chine,2026-03-20,fidele
+83,Emmanuelle Pereira,emmanuelle.pereira46@shopflow.com,Hamilton,Nouvelle-Zelande,2025-08-11,fidele
+84,Astrid Paul de Pinto,astrid.pinto1907@shopflow.com,Cologne,Allemagne,2025-12-25,nouveau
+85,Gabriel Lesage-Thierry,gabriel.thierry4729@shopflow.com,Calgary,Canada,2026-02-25,nouveau
+86,Nicolas Wagner,nicolas.wagner4769@shopflow.com,New York,Etats-Unis,2025-12-07,nouveau
+87,Marie Fischer,marie.fischer6282@shopflow.com,Calgary,Canada,2025-07-22,nouveau
+88,Corinne Delattre de la Dupont,corinne.dupont7416@shopflow.com,Sao Paulo,Bresil,2025-08-02,fidele
+89,Bertrand Blondel-Dufour,bertrand.dufour856@shopflow.com,Shanghai,Chine,2026-01-07,nouveau
+90,Célina Valentin,celina.valentin943@@shopflow.com,Tanger,Maroc,2025-06-10,nouveau
+91,Suzanne Letellier,suzanne.letellier7766@shopflow.com,Chicago,Etats-Unis,2026-02-10,nouveau
+92,Susan Barthelemy de Arnaud,susan.arnaud7375@shopflow.com,Alexandrie,Egypte,2025-10-04,nouveau
+93,Colette Caron-Lefebvre,colette.lefebvre406@shopflow.com,Sapporo,Japon,2026-04-13,fidele
+94,Geneviève Le Gall,genevieve.gall9908@shopflow.com,Incheon,Coree du Sud,2026-01-23,nouveau
+95,Christelle Meunier,christelle.meunier8788@shopflow.com,Canton,Chine,2025-09-03,fidele
+96,Danielle Boutin,danielle.boutin731@shopflow.com,Perth,Australie,2025-09-30,nouveau
+97,Amélie Rémy,amelie.remy9079@shopflow.com,Casablanca,Maroc,2026-01-17,nouveau
+98,Léon de Gaillard,leon.gaillard9168@shopflow.com,Le Caire,Egypte,2026-01-06,fidele
+100,Alfred Perret Le Leblanc,alfred.leblanc288@,inconnue,Kenya,2025-12-12,nouveau
+101,Joséphine Colin,josephine.colin9174@shopflow.com,Canton,Chine,2025-11-07,fidele
+102,Michel Morvan,michel.morvan4885@shopflow.com,Alexandrie,Egypte,2025-07-31,nouveau
+103,Roger Payet,roger.payet8579@shopflow.com,Bursa,Turquie,2025-12-09,nouveau
+104,Thierry Lucas-Letellier,thierry.letellier4579@shopflow.com,Seoul,Coree du Sud,2025-12-12,fidele
+105,Danielle Michaud,danielle.michaud3568@shopflow.com,Yogyakarta,Indonesie,2026-01-01,nouveau
+106,Audrey de la Renault,audrey.renault9403@shopflow.com,Istanbul,Turquie,2026-03-08,nouveau
+107,Martin Lévêque,martin.leveque8897@shopflow.com,Quebec,Canada,2026-02-23,nouveau
+108,Astrid Thierry,astrid.thierry3724@shopflow.com,Perth,Australie,2025-12-31,fidele
+109,Étienne-Victor Fontaine,etienne.fontaine2236@shopflow.com,Pretoria,Afrique du Sud,2025-10-28,nouveau
+111,Célina Renaud,celina.renaud944@shopflow.com,Nakuru,Kenya,2025-09-21,nouveau
+112,Émile Martinez Le Hernandez,emile.hernandez9142@shopflow.com,Bordeaux,France,2026-03-01,nouveau
+113,Christiane Camus-Giraud,christiane.giraud262@shopflow.com,Bursa,Turquie,2025-05-07,nouveau
+114,Geneviève Rémy,genevieve.remy7853@shopflow.com,Ibadan,Nigeria,2025-08-31,nouveau
+115,Xavier Blondel-Cohen,xavier.cohen8929@shopflow.com,Louxor,Egypte,2025-06-03,nouveau
+116,Martin Legros,martin.legros3185@shopflow.com,Sao Paulo,Bresil,2026-03-28,nouveau
+117,Joséphine Le Joubert,josephine.joubert935@shopflow.com,Mumbai,Inde,2026-03-06,nouveau
+118,Théodore Leroux,theodore.leroux7335@shopflow.com,Guadalajara,Mexique,2025-11-17,fidele
+119,Paul Boyer,paul.boyer6454@shopflow.com,Casablanca,Maroc,2025-08-31,nouveau
+120,Grégoire Huet,gregoire.huet1537@,inconnue,Chine,2025-05-05,nouveau
+121,Isaac Renard,isaac.renard8921@shopflow.com,Delhi,Inde,2025-07-10,nouveau
+122,Laetitia Laurent,laetitia.laurent3251@shopflow.com,Nairobi,Kenya,2025-08-19,fidele
+123,Adèle-Éléonore Dupré,adele.dupre1533@shopflow.com,Ankara,Turquie,2025-06-10,nouveau
+124,Stéphane-Bernard Texier,stephane.texier7027@shopflow.com,Surabaya,Indonesie,2025-08-14,nouveau
+125,Capucine Salmon Le Richard,capucine.richard1256@shopflow.com,Mombasa,Kenya,2025-11-20,fidele
+126,Thérèse Blot du Philippe,therese.philippe2172@shopflow.com,Izmir,Turquie,2025-12-19,nouveau
+127,William Clément,william.clement3459@shopflow.com,Antalya,Turquie,2025-05-03,nouveau
+128,Alphonse Garnier du Briand,alphonse.briand2181@shopflow.com,Monterrey,Mexique,2026-04-10,nouveau
+129,Benjamin-Jean Bazin,benjamin.bazin2315@shopflow.com,Daegu,Coree du Sud,2025-12-20,fidele
+130,Anastasie Léger,anastasie.leger9786@,Nairobi,Kenya,2025-05-28,nouveau
+131,Frédéric Nguyen-Riou,frederic.riou2468@shopflow.com,Guadalajara,Mexique,2025-10-07,nouveau
+133,Timothée Julien,timothee.julien3430@shopflow.com,Recife,Bresil,2025-07-18,nouveau
+134,Geneviève-Colette Hebert,genevieve.hebert1552@shopflow.com,Brisbane,Australie,2025-06-26,nouveau
+135,Nicole-Juliette Moreau,nicole.moreau6720@shopflow.com,Chennai,Inde,2025-11-25,nouveau
+136,Marguerite du Laroche,marguerite.laroche6564@shopflow.com,Kano,Nigeria,2026-01-02,fidele
+137,Madeleine Gilbert,madeleine.gilbert1510@shopflow.com,Chennai,Inde,2025-09-13,nouveau
+138,Victoire Boyer,victoire.boyer8769@shopflow.com,Shenzhen,Chine,2025-11-14,fidele
+139,Dominique Lévy-Guillou,dominique.guillou4267@shopflow.com,Melbourne,Australie,2026-01-27,fidele
+141,Astrid Fernandez,astrid.fernandez4886@shopflow.com,Adelaide,Australie,2025-07-29,fidele
+142,Philippine-Nathalie Coulon,philippine.coulon5417@shopflow.com,Durban,Afrique du Sud,2026-01-19,nouveau
+143,Émilie-Victoire Vallée,emilie.vallee1752@shopflow.com,Le Cap,Afrique du Sud,2025-05-15,nouveau
+144,Marianne du Verdier,marianne.verdier6840@shopflow.com,Hambourg,Allemagne,2026-04-10,nouveau
+145,Émile Blanchet,emile.blanchet704@shopflow.com,Hambourg,Allemagne,2025-12-08,fidele
+146,Éric Lefort,eric.lefort5598@shopflow.com,Izmir,Turquie,2025-10-14,fidele
+147,Benjamin-Robert Lesage,benjamin.lesage418@shopflow.com,Pekin,Chine,2025-12-09,nouveau
+148,Claude Guichard,claude.guichard8936@shopflow.com,Incheon,Coree du Sud,2025-05-01,fidele
+149,Arnaude Le David,arnaude.david954@shopflow.com,Johannesburg,Afrique du Sud,2025-08-22,fidele
+150,Geneviève Moulin,genevieve.moulin7156@,Brisbane,Australie,2025-10-23,fidele
+151,Camille du Mathieu,camille.mathieu5572@shopflow.com,Buenos Aires,Argentine,2025-11-23,nouveau
+152,Alexandre de Boyer,alexandre.boyer5286@shopflow.com,Assouan,Egypte,2026-01-21,nouveau
+153,René Hoareau,rene.hoareau2027@shopflow.com,Salvador,Bresil,2025-05-30,nouveau
+154,Bertrand-Jérôme Millet,bertrand.millet5215@shopflow.com,Francfort,Allemagne,2026-02-04,fidele
+155,Noémi Blin,noemi.blin811@shopflow.com,Marseille,France,2025-12-18,nouveau
+156,Gabrielle Rey,gabrielle.rey4028@shopflow.com,Incheon,Coree du Sud,2025-09-23,fidele
+157,Antoinette de la Lelièvre,antoinette.lelievre6653@shopflow.com,Adelaide,Australie,2025-12-10,fidele
+158,Élisabeth Lecomte,elisabeth.lecomte7867@shopflow.com,Brasilia,Bresil,2026-04-20,nouveau
+159,Marcel Léger,marcel.leger534@shopflow.com,Paris,France,2025-07-26,fidele
+161,Arthur Aubert,arthur.aubert9422@shopflow.com,Salvador,Bresil,2025-07-08,fidele
+162,Nathalie du Traore,nathalie.traore2368@shopflow.com,Rosario,Argentine,2026-01-16,nouveau
+163,Jacques Lelièvre,jacques.lelievre8516@shopflow.com,La Plata,Argentine,2026-01-08,nouveau
+164,Augustin Blanchard,augustin.blanchard4489@shopflow.com,Vancouver,Canada,2025-09-25,nouveau
+166,Gilbert Le Gall de Lemaître,gilbert.lemaitre7564@shopflow.com,Puebla,Mexique,2025-09-24,fidele
+167,Aurélie Maréchal,aurelie.marechal6911@shopflow.com,Melbourne,Australie,2026-01-15,fidele
+168,Constance Boulanger,constance.boulanger9831@shopflow.com,Bloemfontein,Afrique du Sud,2025-12-16,nouveau
+169,Valérie Gilles,valerie.gilles6516@shopflow.com,Istanbul,Turquie,2025-12-18,nouveau
+170,Charles Guillon,charles.guillon1784@@shopflow.com,Hamilton,Nouvelle-Zelande,2026-03-06,nouveau
+171,Audrey Legendre-Gosselin,audrey.gosselin499@shopflow.com,Ibadan,Nigeria,2026-04-09,nouveau
+172,Adrienne Aubert,adrienne.aubert1609@shopflow.com,Chicago,Etats-Unis,2026-01-08,nouveau
+173,Pierre Coulon,pierre.coulon4447@shopflow.com,La Plata,Argentine,2025-10-05,fidele
+174,Dorothée Gilbert-Marie,dorothee.marie7099@shopflow.com,Monterrey,Mexique,2025-04-26,nouveau
+175,Simone du Pinto,simone.pinto3030@shopflow.com,Ibadan,Nigeria,2025-09-20,nouveau
+176,Andrée du Alves,andree.alves2423@shopflow.com,Le Cap,Afrique du Sud,2025-12-27,nouveau
+177,Étienne Vallet,etienne.vallet4528@shopflow.com,Recife,Bresil,2025-05-14,nouveau
+178,Christine Leclerc,christine.leclerc3047@shopflow.com,Toronto,Canada,2025-10-01,nouveau
+179,Xavier Couturier-Colas,xavier.colas9036@shopflow.com,Pretoria,Afrique du Sud,2025-12-05,nouveau
+181,Élisabeth Delahaye du Dubois,elisabeth.dubois3620@shopflow.com,Fes,Maroc,2025-11-28,fidele
+182,Guy Marie,guy.marie3899@shopflow.com,Paris,France,2025-09-15,fidele
+183,Raymond Fleury,raymond.fleury1578@shopflow.com,Fes,Maroc,2025-06-05,nouveau
+184,Lucy Delahaye,lucy.delahaye9103@shopflow.com,Johannesburg,Afrique du Sud,2025-08-13,nouveau
+185,Arthur Gautier,arthur.gautier6093@shopflow.com,Ibadan,Nigeria,2025-04-29,nouveau
+186,Alix Mace,alix.mace8159@shopflow.com,Incheon,Coree du Sud,2025-10-18,fidele
+187,Élodie Huet,elodie.huet8497@shopflow.com,Monterrey,Mexique,2026-04-02,fidele
+188,Patricia Charrier,patricia.charrier8594@shopflow.com,Gizeh,Egypte,2026-04-21,fidele
+189,Valentine Raynaud,valentine.raynaud8886@shopflow.com,Ankara,Turquie,2026-03-25,fidele
+191,Joseph-William Gauthier,joseph.gauthier4013@shopflow.com,Berlin,Allemagne,2026-02-20,fidele
+192,Daniel Marchal,daniel.marchal181@shopflow.com,Los Angeles,Etats-Unis,2025-08-12,fidele
+193,Laetitia Wagner-Letellier,laetitia.letellier6434@shopflow.com,Izmir,Turquie,2026-01-23,fidele
+194,Élodie Wagner-Marie,elodie.marie8389@shopflow.com,Incheon,Coree du Sud,2025-06-26,nouveau
+195,Agathe Germain,agathe.germain2026@shopflow.com,Kisumu,Kenya,2026-04-19,fidele
+196,Alfred Rocher,alfred.rocher3407@shopflow.com,Christchurch,Nouvelle-Zelande,2025-06-21,nouveau
+197,Martin de la Jacques,martin.jacques401@shopflow.com,Sydney,Australie,2026-02-27,nouveau
+199,Françoise Lefort,francoise.lefort8489@shopflow.com,Shanghai,Chine,2026-02-15,fidele
+200,Constance Ollivier,@shopflow.com,inconnue,Bresil,2025-10-15,nouveau
